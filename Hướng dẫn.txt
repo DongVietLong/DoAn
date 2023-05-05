@@ -1,0 +1,8 @@
+trang chủ : http://localhost:81/LiveServer/
+đăng nhập người dùng tài khoản sv http://localhost:81/LiveServer/dangnhap/
+tk 1041260013
+mk 123456
+
+link http://localhost:81/LiveServer/quantri
+tk 123456789
+mk 123
